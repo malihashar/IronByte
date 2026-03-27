@@ -5,10 +5,7 @@ Course: ICS3U
 Date: March 12, 2026
 Program: PiApproximationBattle.java
 
-Description:
-Compares two methods of estimating PI:
-1) Leibniz Series
-2) Monte Carlo Simulation
+
 */
 
 import java.util.Scanner;
