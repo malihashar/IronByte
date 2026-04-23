@@ -1,3 +1,4 @@
+package HW18_FileIO.input_files;
 import java.io.*;
 
 public class Printallchar {

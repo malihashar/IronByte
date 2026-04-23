@@ -1,3 +1,4 @@
+package HW18_FileIO.input_files.outputfiles;
 import java.io.*;
 import java.nio.Buffer;
 import java.util.Scanner;
