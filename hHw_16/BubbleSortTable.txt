@@ -1,0 +1,23 @@
+Bubble Sort Table (Ascending Order)
+Data: 3 8 3 2 7
+
+Pass 1:
+Compare 3 and 8 -> no swap      3 8 3 2 7
+Compare 8 and 3 -> swap         3 3 8 2 7
+Compare 8 and 2 -> swap         3 3 2 8 7
+Compare 8 and 7 -> swap         3 3 2 7 8
+
+Pass 2:
+Compare 3 and 3 -> no swap      3 3 2 7 8
+Compare 3 and 2 -> swap         3 2 3 7 8
+Compare 3 and 7 -> no swap      3 2 3 7 8
+
+Pass 3:
+Compare 3 and 2 -> swap         2 3 3 7 8
+Compare 3 and 3 -> no swap      2 3 3 7 8
+
+Pass 4:
+Compare 2 and 3 -> no swap      2 3 3 7 8
+
+Final sorted list:
+2 3 3 7 8

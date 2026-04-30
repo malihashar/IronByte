@@ -1,0 +1,36 @@
+Selection Sort Passes (Alphabetical Order)
+
+Start:
+Renee
+Brien
+Vincent
+Doris
+Scarlett
+
+After Pass 1:
+Brien
+Renee
+Vincent
+Doris
+Scarlett
+
+After Pass 2:
+Brien
+Doris
+Vincent
+Renee
+Scarlett
+
+After Pass 3:
+Brien
+Doris
+Renee
+Vincent
+Scarlett
+
+After Pass 4:
+Brien
+Doris
+Renee
+Scarlett
+Vincent

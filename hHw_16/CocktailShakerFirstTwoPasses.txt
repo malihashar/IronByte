@@ -1,0 +1,17 @@
+Cocktail Shaker Sort (First Two Passes)
+Data: 2 9 4 6 1 7 8
+
+Pass 1 (left to right, move large values up):
+Compare 2 and 9 -> no swap      2 9 4 6 1 7 8
+Compare 9 and 4 -> swap         2 4 9 6 1 7 8
+Compare 9 and 6 -> swap         2 4 6 9 1 7 8
+Compare 9 and 1 -> swap         2 4 6 1 9 7 8
+Compare 9 and 7 -> swap         2 4 6 1 7 9 8
+Compare 9 and 8 -> swap         2 4 6 1 7 8 9
+
+Pass 2 (right to left, move small values down):
+Compare 8 and 7 -> no swap      2 4 6 1 7 8 9
+Compare 7 and 1 -> no swap      2 4 6 1 7 8 9
+Compare 1 and 6 -> swap         2 4 1 6 7 8 9
+Compare 1 and 4 -> swap         2 1 4 6 7 8 9
+Compare 1 and 2 -> swap         1 2 4 6 7 8 9
