@@ -1,0 +1,10 @@
+student:0 attendence:-1
+student:1 attendence:4
+student:2 attendence:-1
+student:3 attendence:5
+
+student:1 has three consecutive day attendence.
+
+student:3 has three consecutive day attendence.
+
+day:4 has the lowest attendence of:2
